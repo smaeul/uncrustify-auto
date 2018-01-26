@@ -1,5 +1,6 @@
 /*
- * count.c
+ * Copyright © 2017 Samuel Holland <samuel@sholland.org>
+ * SPDX-License-Identifier: 0BSD
  */
 
 #include <stdbool.h>

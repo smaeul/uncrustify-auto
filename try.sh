@@ -1,4 +1,7 @@
 #!/bin/sh -eu
+# Copyright © 2017-2018 Samuel Holland <samuel@sholland.org>
+# SPDX-License-Identifier: 0BSD
+#
 
 options=$(cut -s -d= -f1 uncrustify.base)
 srcdir=$1

@@ -1,3 +1,8 @@
+#
+# Copyright © 2017-2018 Samuel Holland <samuel@sholland.org>
+# SPDX-License-Identifier: 0BSD
+#
+
 CPPFLAGS = -D_GNU_SOURCE -D_XOPEN_SOURCE=700 -DALLOW_IGNORE=0
 CFLAGS = -O2
 

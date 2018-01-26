@@ -1,3 +1,8 @@
+/*
+ * Copyright © 2017 Samuel Holland <samuel@sholland.org>
+ * SPDX-License-Identifier: 0BSD
+ */
+
 struct type {
 	bool keep;
 	unsigned int nvalues;
