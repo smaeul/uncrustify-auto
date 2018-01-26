@@ -1,3 +1,7 @@
+/.uncrustify*
 /count
 /options.h
 /permute
+/src
+/uncrustify*
+!/uncrustify.base
